@@ -1,6 +1,6 @@
 ## Hi there 👋 Welcome to my Github! 	
 
-
+I am a product designer who specializes in AI devtools.
 
 - 🎨 I’m currently working on marketing design for AI dev tool startups 
 - 👩🏻‍💻 I’m currently learning frontend coding
