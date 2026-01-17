@@ -9,4 +9,4 @@
 - 🧘🏻‍♀️ Ask me about my meditation practice
 - 📧 How to reach me: linkedin [Linkedin](https://www.linkedin.com/in/daftar/) / [My Website](https://maryd.framer.website/)
 
-<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/mdaftarian?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
